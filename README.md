@@ -16,11 +16,6 @@ https://www.cdc.gov/nchs/pressroom/stats_of_the_states.htm
 
 
 # Resources to help you learn Dash
-
-###
- - [Check out the new book I wrote with Dash Experts](https://www.barnesandnoble.com/w/python-dash-adam-schroeder/1141355104?ean=9781718502222)
- 
- ---
  
 ### Important app components
  - [Dash Core Components](https://dash.plotly.com/dash-core-components)
