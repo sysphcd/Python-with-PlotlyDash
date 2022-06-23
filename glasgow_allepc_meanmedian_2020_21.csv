@@ -1,0 +1,51 @@
+﻿district_code,district_name_median,median_ENERGY_CONSUMPTION_CURRENT,median_CURRENT_ENERGY_EFFICIENCY,mean_ENERGY_CONSUMPTION_CURRENT,mean_CURRENT_ENERGY_EFFICIENCY
+G1,"City Centre East, City Centre South, City Centre West, Merchant City",239,71,257.2769231,69.22307692
+G11,"Partickhill and Hyndland, Glasgow Harbour and Partick South, Broomhill, Partick, Partickhill",211.5,73,238.1398305,69.55084746
+G12,"Kelvinside and Jordanhill, West End, Cleveden, Dowanhill, Hillhead, Hyndland, Kelvindale, Botanic Gardens",230,68,259.5127119,65.5720339
+G13,"Knightswood East, Knightswood Park East, Knightswood Park West, Knightswood West, Anniesland West, Knightswood, Yoker",224.5,70,253.662037,68.31018519
+G14,"Yoker North, Yoker South, Victoria Park, Scotstoun North and East, Scotstoun South and West, Whiteinch, Scotstoun",229,70,264.3284672,67.37956204
+G15,"Drumry East, Drumry West, Drumchapel North, Drumchapel South, Blairdardie East, Blairdardie West, Drumchapel",160.5,77,157.45625,78.1625
+G2,Blythswood Hill,232.5,69,272.1818182,67.47727273
+G20,"Wyndford, North Kelvin, Maryhill East, Maryhill West, Firhill, Anniesland East, Maryhill, North Kelvinside, Ruchill",216.5,73,237.8592965,71.95979899
+G21,"Springburn East and Cowlairs, Roystonhill and Blochairn and Provanmill, Petershill, Keppochhill, Cowlairs and Port Dundas, Balornock, Barmulloch, Cowlairs, Royston, Springburn, Sighthill",223,72,245.5614973,70.26737968
+G22,"Possil Park, Milton East, Milton West, Milton, Possilpark",227.5,71,243.7905405,68.68918919
+G23,"Summerston Central and West, Summerston North, Lambhill, Summerston",238,69,252.1590909,67.40909091
+G3,"Kelvingrove and University, Finnieston and Kelvinhaugh, Anderston, Finnieston, Garnethill Park, Woodlands, Yorkhill",222,71,248.8274112,68.98477157
+G31,"Parkhead East and Braidfauld North, Gallowgate North and Bellgrove, Dennistoun North, Carntyne West and Haghill, Alexandra Parade, Dennistoun, Haghill, Parkhead",198,73,222.123506,70.9561753
+G32,"Shettleston North, Shettleston South, Old Shettleston and Parkhead North, Mount Vernon North and Sandyhills, Greenfield, Cranhill and Lightburn and Queenslie South, Carmyle and Mount Vernon South, Braidfauld, Carmyle, Tollcross, Mount Vernon, Lightburn, Sandyhills",199.5,73,215.7155556,71.49777778
+G33,"Riddrie and Hogganfield, Robroyston and Millerston, North Barlanark and Easterhouse South, Craigend and Ruchazie, Blackhill and Barmulloch East, Barlanark, Carntyne, Craigend, Cranhill, Millerston, Provanmill, Riddrie, Robroyston, Ruchazie, Stepps",196,73,213.8178694,72.50171821
+G34,"Garthamlock and Auchinlea and Gartloch, Easterhouse East, Central Easterhouse, Easterhouse",142,79,135.12,80.14666667
+G4,"Calton, Cowcaddens, Drygate, Kelvinbridge, Townhead, Woodlands, Woodside",235,71,262.5377358,68.73584906
+G40,"Parkhead West and Barrowfield, Dalmarnock, Bridgeton, Calton and Gallowgate",295,69,287.4412811,67.45551601
+G41,"Strathbungo, Shawlands East, Shawlands West, Pollokshields East, Pollokshields West, Maxwell Park, Kinning Park and Festival Park, Kingston West and Dumbreck, Pollokshields, Shawlands",218.5,70,233.35,69.15
+G42,"Toryglen and Oatlands, Merrylee and Millbrae, Langside, Govanhill East and Aikenhead, Govanhill West, Battlefield, Govanhill, Mount Florida, Strathbungo East",198,73,218.731441,70.96943231
+G43,"Mansewood, Newlands, Pollokshaws",188,74,198.5661376,72.66666667
+G44,"Muirend and Old Cathcart, Kingspark North, Kingspark South, Cathcart, Croftfoot, Kings Park, Muirend, Netherlee",244,68,263.376569,67.21338912
+G45,"Glenwood North, Glenwood South, Castlemilk",157,77,152.5960265,77.72847682
+G46,"Carnwadric East, Carnwadric West, Giffnock, Kennishead, Thornliebank, Deaconsbank",179.5,75,196.2123894,73.30752212
+G5,"Laurieston and Tradeston, Gorbals and Hutchesontown, Gorbals",148,78,177.0416667,75.78333333
+G51,"Ibrox East and Cessnock, Govan and Linthouse, Drumoyne and Shieldhall, Govan, Ibrox",222,72,247.1589958,69.31380753
+G52,"Mosspark, Craigton, Cardonald North, Cardonald South and East, Cardonald West and Central, Hillington, Penilee",223,70,269.9693487,66.02298851
+G53,"Pollok North and East, Pollok South and West, Nitshill, Darnley East, Darnley North, Darnley West, Crookston North, Crookston South, Darnley, Pollok, Crookston",191.5,73,207.115,71.87
+G60,"Bowling, Old Kilpatrick, West Dunbartonshire",221.5,70,247.2857143,69.82142857
+G61,"Bearsden, East Dunbartonshire",259.5,66,255.4861111,66.95833333
+G62,Milngavie,290,66,281.3521127,67.66197183
+G63,"Balfron, Blanefield, Croftamie, Drymen, Dumgoyne, Fintry, Killearn, Strathblane, Stirling",208,73,228.0493827,71.60493827
+G64,"Bishopbriggs, Torrance",251,68,247.3360656,68.80327869
+G65,"Croy, Kilsyth",245.5,70,243.9318182,69.10227273
+G66,"Kirkintilloch, Lennoxtown, Lenzie, Milton of Campsie",236,70,245.1912351,69.41035857
+G67,Cumbernauld,255,68,284.4806867,66.68240343
+G68,Dullatur,208.5,72,209.9375,72
+G69,"Garrowhill West, Garrowhill East and Swinton, Baillieston East, Baillieston West, Garrowhill, Gartcosh, Moodiesburn, Muirhead",208,72,201.5241636,73.79553903
+G71,"Bothwell, Uddingston, Lanarkshire",176,75,186.5019763,74.94071146
+G72,"Blantyre, Cambuslang",207,72,220.8899083,71.01223242
+G73,"Rutherglen, South Lanarkshire",247,68,269.9494949,66.08080808
+G74,Thorntonhall,151,79,185.0953545,77.12469438
+G75,East Kilbride,229,72,237.9498433,71.96551724
+G76,"Carmunnock North, Carmunnock South, Busby, Clarkston, Eaglesham, Waterfoot",256,67,272.2574257,65.85148515
+G77,Newton Mearns,177,75,188.5536723,73.5480226
+G78,"Barrhead, Neilston, Uplawmoor",213.5,72.5,208.5333333,73.41333333
+G81,"Dalmuir, Duntocher, Faifley, Hardgate",193,75,226.1089325,73.30283224
+G82,"Cardross, Milton",222,73,233.4238683,71.76954733
+G83,"Ardlui, Balloch, Bonhill, Gartocharn, Luss, Renton, Tarbet",252,67,283.343949,65.59872611
+G84,"Clynder, Cove, Garelochhead, Kilcreggan, Rhu, Rosneath, Shandon, Argyll and Bute",278,65,310.534965,62.77272727
