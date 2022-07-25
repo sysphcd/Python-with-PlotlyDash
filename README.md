@@ -1,3 +1,7 @@
+![PlotlyDash1](https://github.com/sysphcd/Python-with-PlotlyDash/blob/main/PlotlyDash1.png)
+![PlotlyDash2](https://github.com/sysphcd/Python-with-PlotlyDash/blob/main/PlotlyDash2.png)
+![PlotlyDash3](https://github.com/sysphcd/Python-with-PlotlyDash/blob/main/PlotlyDash3.png)
+
 # dash-tools & delploy to Heroku 
 https://github.com/andrew-hossack/dash-tools
 
