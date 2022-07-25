@@ -1,3 +1,16 @@
+# dash-tools & delploy to Heroku 
+https://github.com/andrew-hossack/dash-tools
+
+pip install dash-tools
+
+in app.py needs : 
+app = Dash(__name__)
+
+server = app.server
+
+dashtools heroku --deploy
+
+
 # Python-with-PlotlyDash
 Interactive data analytics. Some projects working on Python with Plotly Dash
 
